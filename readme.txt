@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 w
 sdfsdf
 dev
@@ -8,3 +9,5 @@ sdf
 sd
 fs
 df
+=======
+>>>>>>> feature1
